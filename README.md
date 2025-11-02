@@ -3,7 +3,7 @@
 A summary statistics-based gene recognition method, by integrating shared genetic information obtained from the auxiliary population under the transfer learning framework
 
 
-# Backgroubd
+# Background
 tranScore is a R procedure for borrowing the idea of transfer learning to integrate useful genetic information available from auxiliary populationfor association analysis of complex diseases and traits. 
 In tranScore, the gene-based association analysis consists of two components: the first component examines the auxiliary population influence, while the second component assesses the target population impact.
 
